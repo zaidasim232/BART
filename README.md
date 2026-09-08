@@ -1,9 +1,16 @@
-# BART
+## Project Summary
 
-BART is a project designed to analyze station-related data and develop practical solutions.
+This project analyzes BART station data.  
+It studies ridership patterns and travel demand.  
+It finds the busiest stations and routes.  
+It also looks at the best times to travel.
 
-## Project Inputs
+The project uses station information and time-based features.  
+It also builds a prediction model for passenger counts between two stations.  
+This helps estimate traffic for future trips.
 
-You can access the project input data from the following Kaggle dataset:
+## Data Source
+
+You can access the project data from Kaggle:
 
 https://www.kaggle.com/datasets/saulfuh/bart-ridership
